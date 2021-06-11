@@ -1,0 +1,7 @@
+1: Cake Mix Cookies #10 Cost: 150
+
+*********************
+Total cost: 162
+Discount: 10%
+Discount amount: 16.2
+Discounted cost: 145.8
